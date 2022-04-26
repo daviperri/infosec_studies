@@ -1,6 +1,6 @@
 # Information Security Studies (Based on CISSP)
 
-Repositoty focused in information security studies. I'll post my notes here, with the intention of document my studies and helping others Information Security students.
+Repository focused in information security studies. I'll post my notes here, with the intention of document my studies and helping others Information Security students.
 
 If you spot any improvement point, please, contact me.
 
